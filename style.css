@@ -1,0 +1,81 @@
+html {
+    background-color: bisque;
+    font-family: oswald;
+}
+
+.oswald {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+.container {
+    background-color: blue;
+    height: 300px;
+    width: 500px;
+    position: relative;
+    top: 80px;
+    left: 450px;
+    border-radius: 12px;
+    
+}
+
+.container > #btnA {
+    position: relative;
+    background-color: aquamarine;
+    border-radius: 12px;
+    left: 50px;
+    top: 100px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.container > #btnB {
+    position: relative;
+    background-color: blanchedalmond;
+    border-radius: 12px;
+    left: 50px;
+    top: 150px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.container > #btnC {
+    position: relative;
+    background-color: aquamarine;
+    border-radius: 12px;
+    left: 50px;
+    top: 100px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.container > #btnD {
+    position: relative;
+    background-color: blanchedalmond;
+    border-radius: 12px;
+    left: 50px;
+    top: 150px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.titleBox {
+    position: relative;
+    height: 60px;
+    width: 350px;
+    background-color:white;
+    border-radius: 12px;
+    top: 45px;
+    left: 75px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 2rem;;
+    color: orangered;
+}

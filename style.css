@@ -13,57 +13,74 @@ html {
 
 .container {
     background-color: blue;
-    height: 300px;
+    height: 400px;
     width: 500px;
     position: relative;
     top: 80px;
-    left: 450px;
-    border-radius: 12px;
+    left: 460px;
+    border-radius: 20px;
+    box-shadow: 1px 2px 1px orange;
     
 }
 
 .container > #btnA {
     position: relative;
     background-color: aquamarine;
-    border-radius: 12px;
+    border-radius: 15px;
     left: 50px;
     top: 100px;
     height: 50px;
     width: 100px;
     cursor: pointer;
+    box-shadow: 1px 2px 1px orange;
+    border: red;
+    color: purple;
+    font-weight: bold;
 }
 
 .container > #btnB {
     position: relative;
     background-color: blanchedalmond;
-    border-radius: 12px;
+    border-radius: 15px;
     left: 50px;
     top: 150px;
     height: 50px;
     width: 100px;
     cursor: pointer;
+    box-shadow: 1px 2px 1px orange;
+    border: red;
+    color: purple;
+    font-weight: bold;
 }
 
 .container > #btnC {
     position: relative;
     background-color: aquamarine;
-    border-radius: 12px;
+    border-radius: 15px;
     left: 50px;
     top: 100px;
     height: 50px;
     width: 100px;
     cursor: pointer;
+    box-shadow: 1px 2px 1px orange;
+    border: red;
+    color: purple;
+    font-weight: bold;
 }
 
 .container > #btnD {
     position: relative;
     background-color: blanchedalmond;
-    border-radius: 12px;
+    border-radius: 15px;
     left: 50px;
     top: 150px;
     height: 50px;
     width: 100px;
     cursor: pointer;
+    box-shadow: 1px 2px 1px orange;
+    border: red;
+    color: purple;
+    font-weight: bold;
 }
 
 #surpriseMe {
@@ -87,13 +104,12 @@ html {
     height: 60px;
     width: 350px;
     background-color:white;
-    border-radius: 12px;
+    border-radius: 15px;
     top: 45px;
     left: 75px;
     text-align: center;
     padding-top: 5px;
     font-size: 2rem;;
     color: orangered;
+    box-shadow: 1px 2px 1px orange;
 }
-
-
